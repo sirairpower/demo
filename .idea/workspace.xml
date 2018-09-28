@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0265f3e4-4949-4898-9004-faba736a8c2f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiniGameController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/MiniGameController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiniGameService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/MiniGameService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1553#1554#0" expanded="true" />
+                <element signature="e#1617#1618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpLoadFacebookController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/UpLoadFacebookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="76" column="52" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Athlete.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/game/running/Athlete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountDownLatchGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/game/running/CountDownLatchGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiniGame.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/MiniGame.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data-onlogin</find>
+      <find>hsqldb</find>
+      <find>warn</find>
+      <find>report</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="demo" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="demo" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'demo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'demo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'demo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'demo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'demo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'demo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'demo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'demo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'demo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'demo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6148596454000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1145255675" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2077093676" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="4103014672" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.5.RELEASE/2c7ddace2abd741a76720a29365d2dcd7633ef77/spring-boot-gradle-plugin-2.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.5.RELEASE/733da3b14dcf4780765e1245f69b2c1a55585a15/spring-boot-loader-tools-2.0.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.9.RELEASE/9f9a828936d81afd49a603bda9cc1aed863a0d85/spring-core-5.0.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.9.RELEASE/bc3b5aaae53f0bc03647e53ecbd98a05b47a4e90/spring-jcl-5.0.9.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="demo" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-build-cache-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-wrapper-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-messaging-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-model-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-process-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-tooling-api-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-docs-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-jvm-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-logging-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-runtime-api-info-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-launcher-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-base-services-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-installation-beacon-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-base-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-resources-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-core-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-cli-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-build-option-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-model-core-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-persistent-cache-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/gradle-core-api-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-language-scala-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-plugins-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-test-kit-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-signing-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-osgi-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-code-quality-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-maven-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-tooling-api-builders-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-platform-play-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-language-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-build-comparison-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-publish-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-resources-s3-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-ear-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-ide-play-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-composite-builds-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-ide-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-javascript-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-platform-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-announce-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-plugin-use-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-language-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-jacoco-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-testing-junit-platform-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-workers-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-resources-http-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-build-cache-http-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-testing-base-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-version-control-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-build-init-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-testing-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-platform-base-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-language-java-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-testing-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-resources-sftp-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-ide-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-platform-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-ivy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-dependency-management-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-antlr-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-language-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-plugin-development-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-diagnostics-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-resources-gcs-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-scala-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-all/6fmj4nezasjg1b7kkmy10xgo2/gradle-4.8.1/lib/plugins/gradle-reporting-4.8.1.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../testJavaFx" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/SimpleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/GreetingController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/config/fb/SocialConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/Upload.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/userInfo.html" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/StorageException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/StorageFileNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/uploadFacebook.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/FileSystemStorageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/UpLoadFacebookController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/FacebookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/MiniGameController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/MiniGame.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/game/running/Athlete.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/game/running/CountDownLatchGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/MiniGameService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="fb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="running" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="fs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.0.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.0.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.0.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.0.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-core:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-core:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-core:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-core:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-core:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-core:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="LoginController&#9;PSI&#9;JAVA://com.cacafly.exam.demo.front.controller.LoginController" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cacafly.exam.demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MiniGameService">
+    <configuration name="CountDownLatchGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cacafly.exam.demo.game.running.CountDownLatchGame" />
+      <module name="demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cacafly.exam.demo.game.running.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MiniGameService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cacafly.exam.demo.middle.service.MiniGameService" />
+      <module name="demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cacafly.exam.demo.middle.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="build (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="demo" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="demo" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo/templates/login.html" />
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cacafly.exam.demo.DemoApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Groovy.build" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Groovy.build (1)" />
+      <item itemvalue="JavaScript Debug.login.html" />
+      <item itemvalue="Application.MiniGameService" />
+      <item itemvalue="Application.CountDownLatchGame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniGameService" />
+        <item itemvalue="Application.CountDownLatchGame" />
+        <item itemvalue="Groovy.build (1)" />
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0265f3e4-4949-4898-9004-faba736a8c2f" name="Default" comment="" />
+      <created>1536911896530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536911896530</updated>
+      <workItem from="1536911901254" duration="2794000" />
+      <workItem from="1536918307267" duration="75782000" />
+      <workItem from="1537411210460" duration="5257000" />
+      <workItem from="1537783914735" duration="73287000" />
+      <workItem from="1538117635069" duration="2768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="159888000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32948717" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32948717" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30512822" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974359" visible="true" weight="0.17039403" />
+      <window_info id="Learn" order="2" weight="0.3297568" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.50256413" side_tool="true" weight="0.18955651" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.500956" side_tool="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="310" height="677" id="Documentation" order="4" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32948717" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46923077" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49904397" visible="true" weight="0.21816881" />
+      <window_info id="Structure" order="1" sideWeight="0.500956" side_tool="true" weight="0.2532189" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32948717" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Learn" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32948717" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32948717" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Favorites" order="4" sideWeight="0.500956" side_tool="true" weight="0.2532189" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/config/fb/SocialConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/FacebookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="46" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/uploadFacebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/MiniGame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/userInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/config/fb/SocialConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/FacebookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="46" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/userInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="92" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.social/spring-social-facebook/2.0.3.RELEASE/d3c496695c6c057ec596d5cb077cf12f4493d36b/spring-social-facebook-2.0.3.RELEASE-sources.jar!/org/springframework/social/facebook/api/Facebook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.social/spring-social-facebook/2.0.3.RELEASE/d3c496695c6c057ec596d5cb077cf12f4493d36b/spring-social-facebook-2.0.3.RELEASE-sources.jar!/org/springframework/social/facebook/connect/FacebookConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="44" column="106" selection-start-line="44" selection-start-column="91" selection-end-line="44" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.social/spring-social-core/1.1.4.RELEASE/dcae9407440ba8862e89f8a2fe901df371ec7f3c/spring-social-core-1.1.4.RELEASE-sources.jar!/org/springframework/social/oauth2/OAuth2Operations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1082">
+          <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.9.RELEASE/bf1c19aadae4724bfe7e9196652e649bb08a99c4/spring-context-5.0.9.RELEASE-sources.jar!/org/springframework/ui/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.social/spring-social-facebook/2.0.3.RELEASE/d3c496695c6c057ec596d5cb077cf12f4493d36b/spring-social-facebook-2.0.3.RELEASE-sources.jar!/org/springframework/social/facebook/api/PagingParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.34/d1ae2dbbd905b24f7ab2b11833d41c1e38aa95f0/tomcat-embed-core-8.5.34-sources.jar!/org/apache/catalina/core/StandardWrapperValve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="5565" column="29" selection-start-line="5565" selection-start-column="29" selection-end-line="5565" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/StorageException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/StorageFileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.5.RELEASE/345d299a67dc64b34b4a8b7f13a99f09d271384b/spring-boot-autoconfigure-2.0.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/MultipartProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/fs/UnixFileSystemProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="332" column="56" selection-start-line="332" selection-start-column="43" selection-end-line="332" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="673" column="37" selection-start-line="673" selection-start-column="22" selection-end-line="673" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.9.RELEASE/ab4feec73b188109eb1a3aa8aed83c1f97ed1168/spring-core-5.0.9.RELEASE-sources.jar!/org/springframework/core/io/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.9.RELEASE/ab4feec73b188109eb1a3aa8aed83c1f97ed1168/spring-core-5.0.9.RELEASE-sources.jar!/org/springframework/util/FileSystemUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1424">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/FileSystemStorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/StorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/FacebookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/config/fb/SocialConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/userInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/MiniGameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/uploadFacebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="85" column="44" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/MiniGame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/game/running/CountDownLatchGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/game/running/Athlete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/middle/service/MiniGameService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1553#1554#0" expanded="true" />
+            <element signature="e#1617#1618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cacafly/exam/demo/front/controller/UpLoadFacebookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="76" column="52" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

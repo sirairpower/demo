@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>upload file to facebook</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script th:inline="javascript">
+        window.onload = function() {
+
+            $('#file').change(function(){
+                // alert(this.files.length);
+                if(null !== this && this.files.length>3){
+                    alert("Do not select over 3 pics, please do again!");
+                    $("#file").replaceWith($("#file").val('').clone(true));
+                }
+            });
+        }
+    </script>
+
+</head>
+<body>
+<div th:if="${message}">
+    <h2 th:text="${message}"/>
+</div>
+
+<div id="abc">
+    <form method="POST" enctype="multipart/form-data" action="/uploadPhotos">
+        <table>
+            <tr>
+                <td>File to upload:</td>
+                <td><input type="file" id="file" name="file" accept="image/jpg,image/jpeg" multiple="true" /></td>
+            </tr>
+            <tr><td></td><td><input type="submit" value="Upload" /></td></tr>
+        </table>
+    </form>
+</div>
+
+<div>
+    <ul>
+        <li th:each="file : ${files}">
+            <img th:src="${file}" style="width:250px;height:150px"/>
+        </li>
+    </ul>
+</div>
+</body>
+</html>

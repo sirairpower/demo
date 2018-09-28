@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<script th:inline="javascript">
+    /*<![CDATA[*/
+
+    // This is called with the results from from FB.getLoginStatus().
+    function statusChangeCallback(response) {
+        console.log('statusChangeCallback');
+        console.log(response);
+        // The response object is returned with a status field that lets the
+        // app know the current login status of the person.
+        // Full docs on the response object can be found in the documentation
+        // for FB.getLoginStatus().
+        if (response.status === 'connected') {
+            // Logged into your app and Facebook.
+            toUserInfo();
+        } else {
+            // The person is not logged into your app or we are unable to tell.
+            document.getElementById('status').innerHTML = 'Please log ' +
+                'into this app.';
+        }
+    }
+
+    // This function is called when someone finishes with the Login
+    // Button.  See the onlogin handler attached to it in the sample
+    // code below.
+    function checkLoginState() {
+        FB.getLoginStatus(function(response) {
+            statusChangeCallback(response);
+        });
+    }
+
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '247873522584543',
+            cookie     : true,
+            xfbml      : true,
+            version    : 'v3.1'
+        });
+
+        // FB.getLoginStatus(function(response) {
+        //     statusChangeCallback(response);
+        // });
+
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v3.1&appId=247873522584543&autoLogAppEvents=1';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+
+    function toUserInfo()
+    {
+        var userInfoForm = document.getElementById("userInfoForm");
+
+
+        FB.getLoginStatus(function(response) {
+            // alert(JSON.stringify(response,null,4));
+            userInfoForm.accessToken.value = response.authResponse.accessToken;
+            userInfoForm.userID.value = response.authResponse.userID;
+        });
+        userInfoForm.submit();
+    }
+
+
+    /*]]>*/
+</script>
+<body>
+<div id="status"></div>
+<p th:text="'Please Login:'" />
+<div class="fb-login-button" data-onlogin="checkLoginState();"
+     data-scope="user_likes,public_profile"
+     data-max-rows="1" data-size="large" data-button-type="continue_with"
+     data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="false">
+</div>
+<div class="loginBlock">
+    <form id="userInfoForm" action="/showUserInfo"  style="display: none" method="post">
+        <input type="text" name="accessToken">
+        <input type="text" name="userID">
+    </form>
+</div>
+</body>
+</html>

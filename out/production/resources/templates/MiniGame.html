@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>mini funny game</title>
+    <style>
+        .myProgress {
+            width: 100%;
+            background-color: grey;
+        }
+        .myBar {
+            width: 0%;
+            height: 30px;
+            background-color: green;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script th:inline="javascript">
+        window.onload = function() {
+
+        }
+
+        function move() {
+            var elem = document.getElementById("bar1");
+            var width = 0;
+            var id = setInterval(frame, 1000);
+            function frame() {
+                if (width >= 100) {
+                    clearInterval(id);
+                } else {
+                    width+=5;
+                    elem.style.width = width + '%';
+                }
+            }
+        }
+        function reset(){
+           $(".myBar").width(0);
+        }
+    </script>
+</head>
+<body>
+<div class="myProgress">
+    <div class="myBar" id="bar1"></div>
+</div>
+<hr/>
+<div class="myProgress">
+    <div class="myBar" id="bar2"></div>
+</div>
+<hr/>
+<div class="myProgress">
+    <div class="myBar" id="bar3"></div>
+</div>
+<input type="button" value="click me" onclick="move()"/>
+<input type="button" value="reset" onclick="reset()"/>
+</body>
+</html>

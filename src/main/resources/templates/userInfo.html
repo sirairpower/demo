@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>User Informations</title>
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script th:inline="javascript">
+    window.onload = function() {
+
+        $('#file').change(function(){
+           alert(this.files.length);
+           if(null !== this && this.files.length>3){
+               alert("danger!!!");
+           }
+        });
+
+    }
+</script>
+<body>
+
+ <div>
+     <h1>Result of user like lists.</h1>
+     <table>
+         <tr th:each="like : ${userLikes}">
+             <td th:text="${like.id}">ID</td>
+             <td th:text="${like.name}">NAME</td>
+         </tr>
+     </table>
+ </div>
+
+<hr/>
+<hr/>
+
+ <div>
+     <table>
+         <tr>
+             <th th:text="Links"></th>
+         </tr>
+         <tr>
+             <td><a th:href="@{/uploadFacebook}">To Upload Page</a></td>
+         </tr>
+         <tr>
+             <td><a th:href="@{/miniGame}">To Mini Game</a></td>
+         </tr>
+     </table>
+ </div>
+
+
+
+</body>
+</html>
