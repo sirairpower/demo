@@ -3,7 +3,7 @@ package com.cacafly.exam.demo.game.running;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
+@Deprecated
 public class CountDownLatchGame {
     private static CountDownLatch countDown = new CountDownLatch(4);
 

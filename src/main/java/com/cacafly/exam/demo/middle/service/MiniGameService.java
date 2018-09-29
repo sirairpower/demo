@@ -9,130 +9,132 @@ import java.util.stream.IntStream;
 @Service
 public class MiniGameService {
 
-    public void startGame(){
+    public void startGame() {
 
     }
 
-    class Recorder{
+    class Recorder {
 
         public final int START_SCORE = 0;
         public final int END_SCORE = 100;
-        private Map<RaceRunner,Integer> ranking;
-        private Map<RaceRunner,Integer> raceRecord;
-        Recorder(Map<RaceRunner,Integer> _raceRecord){
+        private Map<RaceRunner, Integer> ranking;
+        private Map<RaceRunner, Integer> raceRecord;
+
+        Recorder(Map<RaceRunner, Integer> _raceRecord) {
             raceRecord = _raceRecord;
             ranking = new ConcurrentHashMap<>();
         }
 
-        synchronized public Integer readRecord(RaceRunner raceRunner){
+        public Integer readRecord(RaceRunner raceRunner) {
             return raceRecord.get(raceRunner);
         }
-        synchronized public boolean writeRecord(RaceRunner raceRunner,int newStep){
+
+        synchronized public boolean writeRecord(RaceRunner raceRunner, int newStep) {
             boolean isWrite = false;
             int moveDistance = readRecord(raceRunner);
-            if(needMoreStep(moveDistance)){
-                raceRecord.put(raceRunner,moveDistance+newStep);
+            if (needMoreStep(moveDistance)) {
+                raceRecord.put(raceRunner, moveDistance + newStep);
                 isWrite = true;
-            }else{
+            } else {
                 //決定名次
-                if(!ranking.containsKey(raceRunner)){
-                    ranking.put(raceRunner,ranking.size()+1);
+                if (!ranking.containsKey(raceRunner)) {
+                    ranking.put(raceRunner, ranking.size() + 1);
                 }
             }
+            System.out.println(raceRunner);
+            report();
             return isWrite;
         }
-        public void register(RaceRunner raceRunner){
-            raceRecord.put(raceRunner,START_SCORE);
+
+        public void register(RaceRunner raceRunner) {
+            raceRecord.put(raceRunner, START_SCORE);
         }
-        boolean needMoreStep(int moveDistance){
-            return moveDistance<END_SCORE;
+
+        boolean needMoreStep(int moveDistance) {
+            return moveDistance < END_SCORE;
         }
-        synchronized boolean isGameFinished(){
-            return ranking.size()>=raceRecord.size();
+
+        synchronized boolean isGameFinished() {
+            return ranking.size() >= raceRecord.size();
         }
-        Map<RaceRunner,Integer> getRaceRecord(){
+
+        Map<RaceRunner, Integer> getRaceRecord() {
             return raceRecord;
         }
-        synchronized void report(){
+
+        synchronized void report() {
             System.out.println(" ");
-            getRaceRecord().forEach((k,v)->{
-                System.out.println(k.name+":"+v);
+            getRaceRecord().forEach((k, v) -> {
+                System.out.println(k.name + ":" + v);
             });
             System.out.println(" ");
-            if(isGameFinished()){
+            if (isGameFinished()) {
                 System.out.println(" --- ranking --- ");
-                ranking.forEach((k,v)->{
-                    System.out.println(k.name+":"+v);
+                ranking.forEach((k, v) -> {
+                    System.out.println(k.name + ":" + v);
                 });
                 System.out.println(" --------------- ");
             }
         }
     }
 
-    class RunningGame{
+    class RunningGame {
 
         private final int racerNumber;
         private ScheduledExecutorService executorService;
         private Recorder recorder;
 
-        RunningGame(List<String> runners){
+        RunningGame(List<String> runners) {
             racerNumber = runners.size();
             executorService = Executors.newScheduledThreadPool(racerNumber);
             recorder = new Recorder(new ConcurrentHashMap<>(racerNumber));
-            runners.forEach(r->{
-                recorder.register(new RaceRunner(r,this));
+            runners.forEach(r -> {
+                recorder.register(new RaceRunner(r, this));
             });
 
         }
 
-        Recorder getRecorder(){
+        Recorder getRecorder() {
             return recorder;
         }
 
-        void StartGame(){
-            while(!recorder.isGameFinished()){
-                try {
-                    Thread.sleep(1000L);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                recorder.getRaceRecord().forEach((k,v)->{
-                    if(recorder.isGameFinished()){
-                        executorService.shutdownNow();
-                    }
-                    if(recorder.needMoreStep(v)){
-                        executorService.scheduleAtFixedRate(k,0,1000L,TimeUnit.MILLISECONDS);
-                    }
-                });
-            }
-            if(!executorService.isShutdown()){
-                executorService.shutdownNow();
-                executorService = null;
-            }
+        void StartGame() {
+
+            recorder.getRaceRecord().forEach((k, v) -> {
+                executorService.scheduleAtFixedRate(k, 0, 400L, TimeUnit.MILLISECONDS);
+            });
 
         }
+        void endGame(){
+            executorService.shutdownNow();
+        }
+
     }
 
-    class RaceRunner implements Runnable{
+    class RaceRunner implements Runnable {
 
         private String name;
         private RunningGame game;
 //        private long delay = 100L;
 
 
-        RaceRunner(String _name,RunningGame _game){
+        RaceRunner(String _name, RunningGame _game) {
             name = _name;
             game = _game;
         }
 
         @Override
         public void run() {
-            game.getRecorder().writeRecord(this,oneStep());
-            game.getRecorder().report();
+            if (game.getRecorder().isGameFinished()) {
+                game.endGame();
+            }else{
+                game.getRecorder().writeRecord(this, oneStep());
+
+            }
         }
 
-        public Integer oneStep(){
-            return ThreadLocalRandom.current().nextInt(1,5);
+        public Integer oneStep() {
+            return ThreadLocalRandom.current().nextInt(1, 5);
         }
 
         @Override
@@ -160,7 +162,7 @@ public class MiniGameService {
 
     public static void main(String... args) throws ExecutionException, InterruptedException {
         MiniGameService mgs = new MiniGameService();
-        List<String> runners = Arrays.asList(new String[]{"r1","r2","r3"});
+        List<String> runners = Arrays.asList(new String[]{"r1", "r2", "r3"});
         RunningGame runningGame = mgs.new RunningGame(runners);
         runningGame.StartGame();
     }

@@ -1,7 +1,7 @@
 package com.cacafly.exam.demo.game.running;
 
 import java.util.concurrent.CountDownLatch;
-
+@Deprecated
 public class Athlete implements Runnable {
     private final int id;
     private CountDownLatch countDown;
